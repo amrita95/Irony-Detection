@@ -1,4 +1,4 @@
-Report2.pdf is the assignment report and it is not in proper format when viewed from Github, I kindly request you to download and view it.
+.The Report2.pdf in this folder seems to be distorted when viewed from Github for some reason. Please download it to view it in its original version.
 
 1.LoadingData.py is the code which loads all the data from the text file
 
