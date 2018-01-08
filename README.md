@@ -1,3 +1,3 @@
-# ECEN765
+# Machine Learning with Networks
 
-Assignments of ECEN765- Machine Learning with Networks
+This repository contains the final project- "Irony Detection in English tweets" and also the programming assignments of the course.
