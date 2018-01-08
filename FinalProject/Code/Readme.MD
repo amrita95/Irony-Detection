@@ -1,20 +1,22 @@
-DATASETS:
+# Irony Detection in English Tweets 
+
+## Datasets
 
 1.SemEval2018-T4-train-taskA.txt-Training data. 
 
 2.ANC-token-word.txt--ANC frequency corpus.
 
-THE CODE:
+## Deployment:
 
--->Feature extraction:
+### Feature extraction:
 
 For each feature sets, I have extracted the features from the corpus and saved it in a .txt file. 
 Whenever the features are needed I read the features from the .txt file into a matrix and used it for computations.
 So while running the codes of the features, please change the datapath of the text file to a local path.
 
--->Descriptions:
+### Descriptions:
 
-The following are brief descriptions of each .py files. Each feature extraction code will store the features in a text file at the end
+The following are the brief descriptions of each .py files. Each feature extraction code will store the features in a text file at the end
 
 1.bow.py  formulates the Bag of Words using token unigrams as features and outputs cross validated score with the BoW as features for the corpus
 
